@@ -1,0 +1,5 @@
+assets/tree*.dot
+tree.el
+test/eww-syntax-highlighting.el
+test/language-detection.el
+*.pyc
